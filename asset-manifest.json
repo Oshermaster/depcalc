@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/depcalc/static/css/main.27353e52.chunk.css",
+    "main.js": "/depcalc/static/js/main.25d393b0.chunk.js",
+    "main.js.map": "/depcalc/static/js/main.25d393b0.chunk.js.map",
+    "runtime-main.js": "/depcalc/static/js/runtime-main.0def2000.js",
+    "runtime-main.js.map": "/depcalc/static/js/runtime-main.0def2000.js.map",
+    "static/js/2.99ade0b4.chunk.js": "/depcalc/static/js/2.99ade0b4.chunk.js",
+    "static/js/2.99ade0b4.chunk.js.map": "/depcalc/static/js/2.99ade0b4.chunk.js.map",
+    "index.html": "/depcalc/index.html",
+    "precache-manifest.d7ee8c18bc4fb8aed10c97547f7daa1c.js": "/depcalc/precache-manifest.d7ee8c18bc4fb8aed10c97547f7daa1c.js",
+    "service-worker.js": "/depcalc/service-worker.js",
+    "static/css/main.27353e52.chunk.css.map": "/depcalc/static/css/main.27353e52.chunk.css.map",
+    "static/js/2.99ade0b4.chunk.js.LICENSE.txt": "/depcalc/static/js/2.99ade0b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0def2000.js",
+    "static/js/2.99ade0b4.chunk.js",
+    "static/css/main.27353e52.chunk.css",
+    "static/js/main.25d393b0.chunk.js"
+  ]
+}
